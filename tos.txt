@@ -1,0 +1,27 @@
+By using Defile, you agree to the following Terms of Service. If you don’t agree, don’t use the bot. Simple as that.
+1. Don’t Be Evil
+You may not use Defile for any malicious, illegal, harmful, or disruptive purposes. This includes (but is not limited to):
+
+Raiding, spamming, or nuking servers. 
+
+Doxxing, harassing, or abusing others.
+
+Breaking Discord’s Terms of Service or Community Guidelines.
+
+If you try to do shady stuff, we reserve the right to ban your server or user ID from using Defile. No second chances. (PAY ME 50$ BTC)
+
+2. No Liability, No Drama
+By using Defile, you agree that:
+
+The bot’s owner(s) and developers are not responsible for anything that happens in your server while the bot is present.
+
+If defile causes any form of verbal trauma to members, not on us. its on you.
+
+We do not offer compensation or support for losses, bans, or broken dreams.
+
+3. Bot Data & Logging
+Defile may log basic data (like command usage, server ID, etc.) to improve functionality or fight abuse. No creepy personal info is collected. Promise :).
+
+4. Updates & Changes
+We can update these Terms of Service whenever. If we do, we’ll try to give a heads-up, but it’s on you to stay updated. Continued use of the bot means you agree to the latest version of the terms.
+
